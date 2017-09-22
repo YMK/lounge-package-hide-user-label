@@ -1,0 +1,8 @@
+/* Hide user label in user input */
+#nick {
+    display: none;
+}
+
+#form #input {
+    padding-left: 10px !important;
+}
