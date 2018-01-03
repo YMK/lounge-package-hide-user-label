@@ -1,5 +1,5 @@
 module.exports = {
-    lounge: {
+    thelounge: {
         name: "Hide User Label",
         type: "package",
         run: function (lounge) {
