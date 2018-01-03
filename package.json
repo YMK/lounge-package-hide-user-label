@@ -1,6 +1,6 @@
 {
   "name": "lounge-package-hide-user-label",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple package to show off adding custom css overrides",
   "main": "index.js",
   "license": "MIT",
