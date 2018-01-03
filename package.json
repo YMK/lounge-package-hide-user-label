@@ -4,17 +4,17 @@
   "description": "A simple package to show off adding custom css overrides",
   "main": "index.js",
   "license": "MIT",
-  "homepage": "https://github.com/thelounge/lounge-theme-solarized",
+  "homepage": "https://github.com/YaManicKill/lounge-package-hide-user-label",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thelounge/lounge-theme-solarized.git"
+    "url": "git+https://github.com/YaManicKill/lounge-package-hide-user-label.git"
   },
   "keywords": [
     "lounge",
-    "lounge-theme"
+    "lounge-plugin"
   ],
   "bugs": {
-    "url": "https://github.com/thelounge/lounge-theme-solarized/issues"
+    "url": "https://github.com/YaManicKill/lounge-package-hide-user-label/issues"
   },
   "devDependencies": {
     "stylelint": "^7.11.1",
